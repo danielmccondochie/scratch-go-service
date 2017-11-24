@@ -1,2 +1,6 @@
 # scratch-go-service
-A simple go mongo CRUD service with docker scratch container as a tiny binary build.
+A simple go service for a tiny binary containerised build.
+
+To build;
+
+./setup.sh
